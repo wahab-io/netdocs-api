@@ -1,0 +1,10 @@
+/Users/wahabsyed/src/netdocs-api/bin/Debug/netcoreapp2.0/netdocs-api.deps.json
+/Users/wahabsyed/src/netdocs-api/bin/Debug/netcoreapp2.0/netdocs-api.runtimeconfig.json
+/Users/wahabsyed/src/netdocs-api/bin/Debug/netcoreapp2.0/netdocs-api.runtimeconfig.dev.json
+/Users/wahabsyed/src/netdocs-api/bin/Debug/netcoreapp2.0/netdocs-api.dll
+/Users/wahabsyed/src/netdocs-api/bin/Debug/netcoreapp2.0/netdocs-api.pdb
+/Users/wahabsyed/src/netdocs-api/obj/Debug/netcoreapp2.0/netdocs-api.csproj.CoreCompileInputs.cache
+/Users/wahabsyed/src/netdocs-api/obj/Debug/netcoreapp2.0/netdocs-api.AssemblyInfoInputs.cache
+/Users/wahabsyed/src/netdocs-api/obj/Debug/netcoreapp2.0/netdocs-api.AssemblyInfo.cs
+/Users/wahabsyed/src/netdocs-api/obj/Debug/netcoreapp2.0/netdocs-api.dll
+/Users/wahabsyed/src/netdocs-api/obj/Debug/netcoreapp2.0/netdocs-api.pdb
